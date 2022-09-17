@@ -1,1 +1,124 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T08:50:37.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hMBiHvmZ4lSzcepOPQJY" version="20.3.2" type="github"><diagram id="v7gLgMpqjCkll9eQtLsu" name="第 1 页">ddHNEoIgEADgp+GuYJlns7p08tCZkU2YQZdBGq2nTwfNGOvCLN8uLD+E5c1wttzIKwrQhEZiIOxIKM0SOo4TPD3s0sRDbZXwFK9QqhfMGM36UAK6oNAhaqdMiBW2LVQuMG4t9mHZHXXY1fAaNlBWXG/1poSTXg80Xf0CqpZL53if+UzDl+L5Jp3kAvsvYgVhuUV0PmqGHPT0dsu7+HWnP9nPwSy07seCMVj3HifBB7HiDQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-17T11:12:20.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="k9XClWgwEI_Knrrkx6HO" version="20.3.2" type="github">
+  <diagram id="v7gLgMpqjCkll9eQtLsu" name="第 1 页">
+    <mxGraphModel dx="1087" dy="720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-112" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="402" y="154" width="668" height="498" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-37" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;container=0;fontSize=20;fillColor=#FFFFFF;swimlaneLine=1;strokeWidth=2;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-112">
+          <mxGeometry width="167" height="498" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-83" value="" style="group" vertex="1" connectable="0" parent="fTTr2Mvv8F5XtvVXLRsJ-37">
+          <mxGeometry x="-34" y="198" width="68" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-60" value="&lt;p style=&quot;line-height: 2; font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=20;fillColor=#666666;strokeColor=none;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-83">
+          <mxGeometry width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-59" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=20;fillColor=#FFFFFF;aspect=fixed;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-83">
+          <mxGeometry x="16.169999999999995" y="12.379999999999995" width="35.66" height="43.24" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-78" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;stash&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#FFFFFF;strokeColor=none;rounded=0;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Verdana;fontSize=15;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-83">
+          <mxGeometry x="6.999999999999986" y="72" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-15" value="&lt;pre&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt; git stash apply&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=left;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;strokeColor=none;fillColor=#129077;gradientColor=#666666;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-37">
+          <mxGeometry x="13.5" y="151" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-113" value="&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;git stash &lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=right;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;direction=west;strokeColor=none;fillColor=#666666;gradientColor=#129077;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-37">
+          <mxGeometry x="13.5" y="326" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-38" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;container=0;fontSize=20;fillColor=#FFFFFF;swimlaneLine=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-112">
+          <mxGeometry x="167" width="167" height="498" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-101" value="" style="group" vertex="1" connectable="0" parent="fTTr2Mvv8F5XtvVXLRsJ-38">
+          <mxGeometry x="-47" y="198" width="91" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-90" value="&lt;p style=&quot;line-height: 2; font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=20;fillColor=#129077;strokeColor=none;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-101">
+          <mxGeometry x="11.000000000000014" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-91" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#129077;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=20;fillColor=#FFFFFF;aspect=fixed;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-101">
+          <mxGeometry x="27.17000000000001" y="12.379999999999995" width="35.66" height="43.24" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-92" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;workspace&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#FFFFFF;strokeColor=none;rounded=0;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Verdana;fontSize=15;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-101">
+          <mxGeometry y="72" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-22" value="&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt; git add&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=left;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;strokeColor=none;fillColor=#C0DC2F;gradientColor=#129077;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-38">
+          <mxGeometry x="13.5" y="104" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-21" value="&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt; git rm / git mv&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=left;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;strokeColor=none;fillColor=#C0DC2F;gradientColor=#129077;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-38">
+          <mxGeometry x="13.5" y="56" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-110" value="&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;git checkout &lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=right;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;direction=west;strokeColor=none;fillColor=#129077;gradientColor=#C0DC2F;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-38">
+          <mxGeometry x="13.5" y="466" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-39" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;container=0;fontSize=20;fillColor=#FFFFFF;swimlaneLine=1;strokeWidth=2;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-112">
+          <mxGeometry x="334" width="167" height="498" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-102" value="" style="group" vertex="1" connectable="0" parent="fTTr2Mvv8F5XtvVXLRsJ-39">
+          <mxGeometry x="-34" y="198" width="68" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-94" value="&lt;p style=&quot;line-height: 2; font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=20;fillColor=#C0DC2F;strokeColor=none;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-102">
+          <mxGeometry width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-95" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#C0DC2F;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=20;fillColor=#FFFFFF;aspect=fixed;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-102">
+          <mxGeometry x="16.169999999999987" y="12.379999999999995" width="35.66" height="43.24" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-96" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;stage&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#FFFFFF;strokeColor=none;rounded=0;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Verdana;fontSize=15;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-102">
+          <mxGeometry x="7" y="72" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-23" value="&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt; git commit -a&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=left;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;strokeColor=none;fillColor=#FF9999;gradientColor=#129077;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-39">
+          <mxGeometry x="-152.5" y="151" width="305" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-24" value="&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt; git commit &lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=left;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;strokeColor=none;fillColor=#FF9999;gradientColor=#C0DC2F;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-39">
+          <mxGeometry x="16" y="104" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-107" value="&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;git merge / git rebase &lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=right;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;direction=west;strokeColor=none;fillColor=#129077;gradientColor=#FF9999;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-39">
+          <mxGeometry x="-152.5" y="376" width="305" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-108" value="&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;git checkout HEAD / git reset --hard &lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=right;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;direction=west;strokeColor=none;fillColor=#129077;gradientColor=#FF9999;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-39">
+          <mxGeometry x="-152.5" y="426" width="305" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-109" value="&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;git reset --soft &lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=right;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;direction=west;strokeColor=none;fillColor=#C0DC2F;gradientColor=#FF9999;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-39">
+          <mxGeometry x="13.5" y="466" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-104" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;container=0;fontSize=20;fillColor=#FFFFFF;swimlaneLine=1;strokeWidth=2;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-112">
+          <mxGeometry x="501" width="167" height="498" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-103" value="" style="group" vertex="1" connectable="0" parent="fTTr2Mvv8F5XtvVXLRsJ-104">
+          <mxGeometry x="-62" y="198" width="123" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-98" value="&lt;p style=&quot;line-height: 2; font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=20;fillColor=#FF9999;strokeColor=none;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-103">
+          <mxGeometry x="27" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-99" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FF9999;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=20;fillColor=#FFFFFF;aspect=fixed;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-103">
+          <mxGeometry x="43.170000000000016" y="12.379999999999995" width="35.66" height="43.24" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-100" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;local repository&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#FFFFFF;strokeColor=none;rounded=0;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Verdana;fontSize=15;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-103">
+          <mxGeometry y="72" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-105" value="&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;  git pull / git reset --hard remote/branch &lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=right;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;direction=west;strokeColor=none;fillColor=#129077;gradientColor=#FF7E01;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-104">
+          <mxGeometry x="-320" y="329" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-25" value="&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt; git push&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=left;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;strokeColor=none;fillColor=#FF7E01;gradientColor=#FF9999;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-104">
+          <mxGeometry x="16" y="151" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-106" value="&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;git fetch &lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;align=right;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=15;notch=0;rounded=0;glass=0;sketch=0;direction=west;strokeColor=none;fillColor=#FF9999;gradientColor=#FF7E01;gradientDirection=west;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-104">
+          <mxGeometry x="10" y="376" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-88" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="999" y="352" width="140" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-85" value="&lt;p style=&quot;line-height: 2; font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=20;fillColor=#FF7E01;strokeColor=none;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-88">
+          <mxGeometry x="36.000000000000014" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-86" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FF7E01;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=0;glass=0;sketch=0;fontFamily=Verdana;fontSize=20;fillColor=#FFFFFF;aspect=fixed;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-88">
+          <mxGeometry x="52.17" y="12.379999999999995" width="35.66" height="43.24" as="geometry" />
+        </mxCell>
+        <mxCell id="fTTr2Mvv8F5XtvVXLRsJ-87" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;remote repository&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#FFFFFF;strokeColor=none;rounded=0;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;sketch=0;fontFamily=Verdana;fontSize=15;" vertex="1" parent="fTTr2Mvv8F5XtvVXLRsJ-88">
+          <mxGeometry y="72" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
